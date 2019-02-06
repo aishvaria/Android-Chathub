@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681697075911",
+    "firebase_url": "https://sfsu-chathub-780.firebaseio.com",
+    "project_id": "sfsu-chathub-780",
+    "storage_bucket": "sfsu-chathub-780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681697075911:android:123c68aba501e686",
+        "android_client_info": {
+          "package_name": "edu.sfsu.csc780.chathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681697075911-ja6fvg3a5dpfb681676iavmkqrl75tou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lcGgeF6POatYjSDmmh6g_0obhetmsKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
